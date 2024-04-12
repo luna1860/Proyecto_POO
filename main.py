@@ -6,7 +6,7 @@ class Jugador:
 
 def mostrar_introduccion():
   print("¡Bienvenido al Triviathon!")
-  print("En este emocionante juego, competiras en una serie de preguntas de trivia. El objetivo es responder correctamente a las preguntas de las categorías seleccionadas para ganar puntos.")
+  print("En este emocionante juego, competiras en una interesante serie de preguntas de trivia. El objetivo es responder correctamente a las preguntas de las categorías seleccionadas para ganar puntos.")
   print("\nReglas del juego:")
   print("1. Cada jugador responderá a las preguntas de las categorías seleccionadas.")
   print("2. Las preguntas se seleccionan de manera aleatoria de las categorías elegidas.")
