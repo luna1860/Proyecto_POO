@@ -1,7 +1,6 @@
 # Triviathon: Un juego de preguntas desafiante y atractivo.
 
 En el juego "Triviathon", los jugadores deberán elegir entre 1 y 3 categorías de las 8 disponibles: Historia, Arte, Cultura Pop, Ciencia y Tecnología, Geografía, Deportes, Entretenimiento y Ciencia Ficción. Cada categoría cuenta con 5 preguntas, y por cada respuesta correcta, el jugador suma un punto. Sin embargo, si se equivoca en alguna pregunta, la ronda llega a su fin.
-
 Para comenzar, los usuarios deben registrarse con el nombre de su elección y luego seleccionar las categorías en las que desean poner a prueba su conocimiento.
 
 Durante la ronda, los jugadores disponen de 3 opciones de ayuda: 1. "50/50", que reduce las opciones de respuesta de 4 a 2; 2. "Cambio de pregunta", que reemplaza la pregunta actual por una nueva; y 3. "Texto de IA" (no disponible actualmente), donde se muestra un texto relacionado con la pregunta que contiene la respuesta implícita y el jugador debe interpretarla.
